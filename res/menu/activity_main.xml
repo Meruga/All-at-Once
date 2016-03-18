@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/add"
+        android:title="Add new contact"
+         />
+   
+    
+    <item 
+        android:id="@+id/call"
+        android:title="Call"
+        
+        />
+    
+    <item 
+        android:id="@+id/edit"
+        android:title="View"
+        />
+    
+   <item android:id="@+id/message"
+        android:title="Send Message"
+         />
+    
+    <item android:id="@+id/send_contact"
+        android:title="Send Contact Info"
+         />
+    
+    
+    
+</menu>
